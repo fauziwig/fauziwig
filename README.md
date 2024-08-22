@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fauzi Triagung Wiguna</h1>
+<h1 align="center">Halloo, I'm Fauzi Triagung Wiguna</h1>
 <h3 align="center">Who loves exploring and learning backend technologies</h3>
 
 - 🔭 I’m currently studying on **Informatic Engineering at Ahmad Dahlan University**
@@ -10,6 +10,8 @@
 - 📫 How to reach me **triagungwiguna@gmail.com**
 
 - ⚡ Fun fact **i like cat**
+
+- **Don't miss out on checking my portfolio** in https://fauziwig.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
