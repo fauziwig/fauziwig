@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Technology and Machine Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@fauziwiguna](https://medium.com/@fauziwiguna)
+- 📝 I write articles on [https://medium.com/@fauziwiguna](https://medium.com/@fauziwiguna)
 
 - 📫 How to reach me **triagungwiguna@gmail.com**
 
