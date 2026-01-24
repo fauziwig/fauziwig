@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **i like cat**
 
-- **Don't miss out on checking my portfolio** in https://fauziwig.github.io/portfolio/
+- **Don't miss out on checking my portfolio** in https://fauziwig-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
