@@ -1,7 +1,8 @@
 <h1 align="center">Halloo, I'm Fauzi Triagung Wiguna</h1>
-<h3 align="center">Who loves exploring and learning backend technologies</h3>
 
-- 🔭 I’m fresh graduate from **Informatic Engineering at Ahmad Dahlan University**
+<img data-importer="image" align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlreGp5OXlheGpmemV2NTBuczJqZmpreW16MHA1bjZyNDg3N3A0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif"  />
+
+###
 
 - 🌱 I’m currently enthusiastic  with **Backend Technology and Machine Learning**
 
@@ -24,7 +25,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlreGp5OXlheGpmemV2NTBuczJqZmpreW16MHA1bjZyNDg3N3A0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif"  />
 
 ###
 
