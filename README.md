@@ -4,17 +4,15 @@
 
 ###
 
-- 🌱 I’m currently enthusiastic  with **Backend Technology and Machine Learning**
+- I’m currently enthusiastic  with **Backend Technology and Machine Learning**
 
-- 📝 I write articles on [https://medium.com/@fauziwiguna](https://medium.com/@fauziwiguna)
-
-- 📫 How to reach me **triagungwiguna@gmail.com**
+- I write articles on [https://medium.com/@fauziwiguna](https://medium.com/@fauziwiguna)
 
 - **Don't miss out on checking my portfolio** in https://fauziwig.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:triagungwiguna@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://linkedin.com/in/fauzi-triagung-wiguna" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
